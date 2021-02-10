@@ -1,0 +1,22 @@
+{
+  "ostrich_ambient": {
+    "category": "neutral",
+    "subtitle": "ostrich coos",
+    "sounds": [ 
+	    {
+		    "name": "biomesoutvotedmod:ostrich_sound1",
+		    "stream": "false" 
+	    }
+    ]
+  },
+  "ostrich_hurt": {
+    "category": "neutral",
+    "subtitle": "ostrich hurt",
+    "sounds": [ 
+	    {
+		    "name": "biomesoutvotedmod:ostrich_sound2",
+		    "stream": "false" 
+	    }
+    ]
+  }
+}
